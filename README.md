@@ -4,7 +4,7 @@ agentq utilises various kinds of agentic architectures to complete a task on the
 it has
 
 ```
-1. a planner <> navigator multi-agent architecutre
+1. a planner <> navigator multi-agent architecture
 2. a solo planner-actor agent
 3. an actor <> critic multi-agent architecture
 4. actor <> critic architecture + monte carlo tree search based reinforcement learning + dpo finetuning
@@ -22,7 +22,7 @@ this repo also contains an oss implementation of the research paper [agent q](ht
 poetry install
 ```
 
-3. start chrome in dev mode - in a seaparate terminal, use the command to start a chrome instance and do necesssary logins to job websites like linkedin/ wellfound, etc.
+3. start chrome in dev mode - in a separate terminal, use the command to start a chrome instance and do necessary logins to job websites like linkedin/ wellfound, etc.
 
 for mac, use command -
 
