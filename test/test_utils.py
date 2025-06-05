@@ -230,7 +230,7 @@ def evaluate_ua_match(ref: str, pred: str, intent: str) -> float:
 
 
 def load_config(config_file: Union[Path, str]) -> List[Dict[str, Any]]:
-    """Load the confiufiguration for the test cases
+    """Load the configuration for the test cases.
 
     Args:
         config_file Union[Path, str]: Path to the config file
